@@ -15,5 +15,5 @@ Huom! Riippuen minkä python version olet asentanut nimi "Python36-32" voi olla 
 Tässä linkki verkossa olevaan ohjeeseen: https://www.w3schools.com/python/module_requests.asp
 Tässä myös opetusvideo: https://www.youtube.com/watch?v=btuaxq4nvk8&ab_channel=GhostTogether
 
-ystävällisin terveisin,
+PUSH TO MAIN,
 Niko
