@@ -1,7 +1,7 @@
 import requests
 
 def hae_saa(sijainti):
-    api_avain = "TÄHÄN_API_AVAIN"  # Täytä tämä omalla API-avaimellasi
+    api_avain = "a2f77b10fb43432061e5032c6a3df50b"  # Täytä tämä omalla API-avaimellasi
     url = f"http://api.openweathermap.org/data/2.5/weather?q={sijainti}&appid={api_avain}&units=metric"
     vastaus = requests.get(url)
     data = vastaus.json()
@@ -24,3 +24,5 @@ def hae_saa(sijainti):
 if __name__ == "__main__":
     kaupunki = input("Syötä kaupunki: ")
     hae_saa(kaupunki)
+
+    #Näätkö tän? 
