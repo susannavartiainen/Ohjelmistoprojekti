@@ -24,5 +24,4 @@ def hae_saa(sijainti):
 if __name__ == "__main__":
     kaupunki = input("Syötä kaupunki: ")
     hae_saa(kaupunki)
-
-    #Näätkö tän? 
+    
