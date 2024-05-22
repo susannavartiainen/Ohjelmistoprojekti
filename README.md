@@ -12,7 +12,7 @@ Tämä on yksinkertainen Python-ohjelma, joka hakee ja näyttää säätietoja O
 
 1. **Hanki API-avain OpenWeatherMap:sta**
 
-   Mene osoitteeseen [OpenWeatherMap](https://openweathermap.org/api) ja luo tili saadaksesi API-avaimen.
+   Mene osoitteeseen [OpenWeatherMap](https://openweathermap.org/api) ja luo tili saadaksesi API-avaimen. 
 
 2. **Käynnistä ohjelma**
 
