@@ -1,8 +1,8 @@
 # :wave: Ohjelmistoprojekti 
 
-##  Perusidea
+##  Demovideo
 
-Blaablaa
+https://laureauas-my.sharepoint.com/:v:/r/personal/nev00010_laurea_fi/Documents/Tallenteet/Puhelu%20henkil%C3%B6n%20Susanna%20Vartiainen%20kanssa-20240522_132950-Kokouksen%20tallenne.mp4?csf=1&web=1&e=XVe7EV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
 
 # Sääohjelma
 
@@ -28,3 +28,4 @@ Tämä on yksinkertainen Python-ohjelma, joka hakee ja näyttää säätietoja O
 $ python main.py
 Anna kaupungin nimi: Helsinki
 Sää kaupungissa Helsinki: scattered clouds, lämpötila: 18 °C, tuulen nopeus: 5 m/s
+
