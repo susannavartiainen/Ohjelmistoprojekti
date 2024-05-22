@@ -1,4 +1,4 @@
-# :wave: Ohjelmistoprojekti 
+# :wave: Ohjelmistoprojekti Susanna Vartiainen ja Netta Vainio
 
 ##  Demovideo
 
