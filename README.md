@@ -24,6 +24,7 @@ Tämä on yksinkertainen Python-ohjelma, joka hakee ja näyttää säätietoja O
 
 ## Esimerkkikäyttö
 
+```sh
 Sää kaupungissa Helsinki:
 Kuvaus: clear sky
 Lämpötila: 18.62 °C
