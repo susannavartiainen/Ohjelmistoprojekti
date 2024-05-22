@@ -24,8 +24,10 @@ Tämä on yksinkertainen Python-ohjelma, joka hakee ja näyttää säätietoja O
 
 ## Esimerkkikäyttö
 
-```sh
-$ python main.py
-Anna kaupungin nimi: Helsinki
-Sää kaupungissa Helsinki: scattered clouds, lämpötila: 18 °C, tuulen nopeus: 5 m/s
+Sää kaupungissa Helsinki:
+Kuvaus: clear sky
+Lämpötila: 18.62 °C
+Kosteus: 30%
+Tuulen nopeus: 3.6 m/s
+
 
