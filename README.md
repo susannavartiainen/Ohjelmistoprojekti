@@ -6,7 +6,7 @@ https://laureauas-my.sharepoint.com/:v:/r/personal/nev00010_laurea_fi/Documents/
 
 # Sääohjelma
 
-Tämä on yksinkertainen Python-ohjelma, joka hakee ja näyttää säätietoja OpenWeatherMap API:sta. Ohjelma pyytää käyttäjää syöttämään kaupungin nimen ja näyttää sen jälkeen sääyhteenveton, joka sisältää sääkuvauksen, lämpötilan ja tuulen nopeuden.
+Tämä on yksinkertainen Python-ohjelma, joka hakee ja näyttää säätietoja OpenWeatherMap API:sta. Ohjelma pyytää käyttäjää syöttämään kaupungin nimen ja näyttää sen jälkeen sääyhteenvedon, joka sisältää sääkuvauksen, lämpötilan ja tuulen nopeuden.
 
 ## Käyttöohjeet
 
